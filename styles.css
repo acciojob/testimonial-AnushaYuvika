@@ -6,8 +6,9 @@
 
 .testimonial {
 	background-color: white;
-	padding: 5px;
-	margin: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: 5px;
 	border: 1px solid #ccc;
 }
 
@@ -19,5 +20,7 @@
 
 .author  {
 	text-align: right;
+}
+.author span {
 	font-style: italic;
 }
