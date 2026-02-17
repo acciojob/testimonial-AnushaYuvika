@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.container {
+	padding: 5px;
+	background-color: #f00; 
+}
+
+.testimonials {
+	padding: 5px 5px 0 5px;
+	border: 1px solid brown;
+	background-color: yellow;
+	margin: 5px;
+}
+
+.text {
+	padding: 2px;
+}
+
+.author {
+	text-align: right;
+	font-style: italic;
+}
